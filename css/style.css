@@ -91,7 +91,7 @@ h1 {
     width: 120px;
 }
 
-#ac-btn, #divisonal-btn, #multiplication-btn, #minus-btn, #plus-btn, #equals-btn, #zero-btn {
+#ac-btn, #division-btn, #multiplication-btn, #minus-btn, #plus-btn, #equals-btn, #zero-btn {
     font-weight: 300;
     font-size: 20px;
 }
