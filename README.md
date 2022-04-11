@@ -1,4 +1,4 @@
-# TODO APP - TYPESCRIPT
+# Calculadora
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,22 +8,20 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/geovannecallegaro/calculadora-oop?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/geovannecallegaro/calculadora-oop?style=for-the-badge)
 
-<img src="todo-app.png" alt="Imagem do Projeto">
+<img src="calculadora-oop.png" alt="Imagem do Projeto">
 
 > É um projeto para gerenciar as tarefas de uma pessoa durante o dia ou um período de tempo! O usuário pode colocar as tarefas a serem executadas e ir riscando elas conforme for finalizando-as. 
 
-<p align="center">Acesse o projeto clicando <a href="https://todo-app-react-ts-geovanne.vercel.app/"> aqui </a></p>
+<p align="center">Acesse o projeto clicando <a href="https://geovannecallegaro.github.io/Calculadora-OOP/"> aqui </a></p>
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Criar a estrutura do projeto
-- [x] Permitir que o usuário adicione uma tarefa
-- [x] Permitir que o usuário marque uma tarefa como concluída
-- [x] Permitir que o usuário desmarque uma tarefa como concluída
-- [ ] Permitir que o usuário exclua uma tarefa de sua lista
-- [ ] Fazer os dados persistirem se o usuário atualizar a página
+- [x] Pegar o que é digitado pelo usuário
+- [x] Fazer operação de adição e subtração
+- [x] Fazer operação de multiplação e divisão
+
 
 ## 💻 Pré-requisitos
 
@@ -37,25 +35,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo do HTML"></img>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo do CSS"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo do Javascript"></img>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo do Typescript"></img>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React"></img>
 
-## 🚀 Instalando ToDo APP
-
-Para instalar o projeto, siga estas etapas:
-
-Windows:
-```
-npm install
-```
-
-## ☕ Usando ToDo App
+## ☕ Usando Calculadora
 
 Para usar o projeto, siga estas etapas:
 
 ```
-Adicione uma tarefa pelo botão ou pelo enter do teclado
-Marque ela como concluída e desmarque, tente adicionar varias tarefas
+Fazer as operações básicas de matemática
 ```
 
 
